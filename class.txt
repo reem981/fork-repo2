@@ -1,4 +1,4 @@
-colors
+Red
 Crimson
 Orange
 Blue
@@ -11,5 +11,5 @@ Silver
 Fuchsia
 Purple
 Brown
-Red
-new edition
+White
+Purpl
